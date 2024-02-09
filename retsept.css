@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(250, 240, 231);
+}
+
+hr {
+    border: 1px solid;
+    color: rgb(244, 248, 255);
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Noto Sans Display', sans-serif;
+    color: salmon;
+}
+
+.koostisosad {
+    width: 13%;
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.koostisosad table {
+    margin: 0 auto;
+    background-color: aliceblue;
+    width: 200px;
+}
+
+.koostisosad th {
+    color: gray;
+    text-align: left;
+    font-size: 1rem;
+}
+
+.koostisosad tr {
+    color: gray;
+}
+
+.valmistamine {
+    width: 15%;
+    margin: 0 auto;
+}
+
+.valmistamine h2 {
+    text-align: center;
+    color: rgb(139, 139, 9);
+}
+
+.valmistamine li {
+    color: olive;
+}
+
+.footer {
+    color:darkgrey;
+    font-size: 1rem;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: center;
+}
+
